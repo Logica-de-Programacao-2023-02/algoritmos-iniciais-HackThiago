@@ -1,0 +1,4 @@
+1.Leia A
+2.Leia B
+3.resultado = A + B
+4.Escreva resultado

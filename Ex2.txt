@@ -1,0 +1,6 @@
+1.LEIA temperatura
+2.LEIA unidade de medida
+3.SE unidade == celsius
+4.ENTAO resultado = (temperatura *1.8) + 32
+5.SENAO resultado = (temperatura -32) / 1.8
+6.ESCREVA resultado

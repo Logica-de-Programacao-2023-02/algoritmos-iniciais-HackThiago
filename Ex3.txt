@@ -1,0 +1,10 @@
+1.LEIA Lista
+2.crie VAR tamanho com valor 0
+3.crie VAR resultado com valor 0
+4.PARA todo elemento i na Lista
+FAÇA
+5. resultado = resultado + numero na posição i
+6.tamanho = tamanho + 1
+FIM-PARA
+7.resultado = resultado / tamanho
+8.ESCREVA resultado

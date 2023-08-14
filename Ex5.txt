@@ -1,0 +1,7 @@
+1.LEIA Lista
+2.LEIA numero
+3.PARA todo elemento i na Lista
+4.FAÇA
+5.SE numero == valor do elemento i
+6.ENTAO ESCREVE posicao do elemento i
+7.FIM-PARA

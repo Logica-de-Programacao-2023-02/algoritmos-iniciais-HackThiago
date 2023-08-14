@@ -1,0 +1,8 @@
+1.LEIA numero
+2.crie VAR resultado com valor 1
+3.ENQUANTO numero > 0
+4.FAÇA
+5.resultado = resultado * numero
+6.numero = numero - 1
+7.FIM-PARA
+8.ESCREVA resultado

@@ -1,0 +1,4 @@
+1.LEIA numero
+3.cria VAR 
+2.SE numero < 2
+3.ENTAO 

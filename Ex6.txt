@@ -1,0 +1,7 @@
+1.LEIA numero
+2.LEIA potencia
+3.ENQUANTO potencia > 0
+4.FAÇA numero = numero * numero
+5.potencia -1
+6.FIM-FAÇA
+7.ESCREVA numero
