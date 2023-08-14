@@ -1,0 +1,5 @@
+1.LEIA base
+2.LEIA altura
+3.resposta = (base * altura)/2
+4.ESCREVA resposta
+5.FIM

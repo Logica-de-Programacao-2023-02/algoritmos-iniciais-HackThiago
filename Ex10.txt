@@ -1,0 +1,10 @@
+1.LEIA listaNumeros
+2.LEIA listaPesos
+3.crie VAR resposta = 0
+4.crie VAR i = 0
+5.ENQUANTO i < tamanho de listaNumeros
+6.resposta = resposta + valor daposição "i" em listaNumeros * valor da posição i em listaPesos
+7.FIM-ENQUANTO
+8.resposta = resposta / i
+9.ESCREVA resposta
+10.FIM

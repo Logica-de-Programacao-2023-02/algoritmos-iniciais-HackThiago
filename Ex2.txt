@@ -4,3 +4,4 @@
 4.ENTAO resultado = (temperatura *1.8) + 32
 5.SENAO resultado = (temperatura -32) / 1.8
 6.ESCREVA resultado
+7.FIM

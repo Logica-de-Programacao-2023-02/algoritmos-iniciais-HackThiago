@@ -5,3 +5,4 @@
 5.SE numero == valor do elemento i
 6.ENTAO ESCREVE posicao do elemento i
 7.FIM-PARA
+8.FIM

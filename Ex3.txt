@@ -8,3 +8,4 @@ FAÇA
 FIM-PARA
 7.resultado = resultado / tamanho
 8.ESCREVA resultado
+9.FIM

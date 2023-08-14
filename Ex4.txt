@@ -6,3 +6,4 @@
 6.numero = numero - 1
 7.FIM-PARA
 8.ESCREVA resultado
+9.FIM

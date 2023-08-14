@@ -1,4 +1,12 @@
 1.LEIA numero
-3.cria VAR 
-2.SE numero < 2
-3.ENTAO 
+2.cria VAR comparador = 2
+3.SE numero < 2 E numero > 0
+4.ENTAO ESCREVA é primo
+5.SENÃO ENQUANTO comparador < numero
+FAÇA
+6.SE numero % comparador == 0
+7.ESCREVA é primo
+8.SENÃO comparador = comparador + 1
+9.FIM-SENÃO
+10.FIM-FAÇA
+12.FIM

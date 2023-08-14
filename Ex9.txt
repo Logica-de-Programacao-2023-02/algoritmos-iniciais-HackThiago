@@ -1,0 +1,9 @@
+1.LEIA montante
+2.LEIA meses
+3.LEIA juros
+4.ENQUANTO meses > 0
+5.FAÇA montante = montante + montante * juros
+6.meses = meses - 1
+7.FIM-FAÇA
+8.ESCREVA montante
+9.FIM
